@@ -1,29 +1,15 @@
 #EXTM3U
-#EXTINF:-1,RMF FM
-http://195.150.20.242:8000/rmf_fm
-#EXTINF:-1,Radio ZET
-http://zet090-02.cdn.eurozet.pl:8404/
-#EXTINF:-1,Radio Eska (Warszawa)
-http://waw02-03.ic.smcdn.pl:8000/t043-1.mp3
-#EXTINF:-1,Złote Przeboje
-http://poznan7.radio.pionier.net.pl:8000/tuba9-1.mp3
-#EXTINF:-1,Jedynka (Polskie Radio)
+#EXTINF:-1 tvg-logo="https://polskieradio.pl" group-title="Polish Radio",Polskie Radio Jedynka (PR1)
+http://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://polskieradio.pl" group-title="Polish Radio",Polskie Radio Dwójka (PR2)
 http://polskieradio.pl
-#EXTINF:-1,Dwójka (Polskie Radio)
+#EXTINF:-1 tvg-logo="https://polskieradio.pl" group-title="Polish Radio",Polskie Radio Trójka (PR3)
 http://polskieradio.pl
-#EXTINF:-1,Trójka (Polskie Radio)
-http://mp3.polskieradio.pl:8904/
-#EXTINF:-1,Czwórka (Polskie Radio)
-http://polskieradio.pl
-#EXTINF:-1,Polskie Radio 24
-http://polskieradio.pl
-#EXTINF:-1,Radio TOK FM
-http://radioagora.pl
-#EXTINF:-1,Radio 90 FM
-http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
-#EXTINF:-1,Radio Bielsko
-http://stream.nadaje.com:8044/
-#EXTINF:-1,VOX FM
-http://smcdn.pl
-#EXTINF:-1,Antyradio
-http://eurozet.pl
+#EXTINF:-1 tvg-logo="https://polskieradio.pl" group-title="Polish Radio",Polskie Radio Czwórka (PR4)
+http://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://polskieradio.pl" group-title="Polish Radio",Polskie Radio Chopin
+http://stream3.polskieradio.pl:8960/
+#EXTINF:-1 tvg-logo="https://rmf.fm" group-title="Polish Radio",RMF FM
+http://217.74.72
+#EXTINF:-1 tvg-logo="https://radiozet.pl" group-title="Polish Radio",Radio ZET
+http://zetstream.pl
